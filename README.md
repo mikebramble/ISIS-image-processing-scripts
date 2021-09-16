@@ -10,9 +10,9 @@ I am to upload a new script every couple of days.
 
 Below are descriptions of the scripts in this repository and explanations of how to use them:
 
-## SCRIPT_NAME
+## script_gdal_batch_translate
 
-Description.
+This is a simple script to convert .cub files in directory to .tif files using gdal_tranlsate.
 
 ## SCRIPT_NAME
 
