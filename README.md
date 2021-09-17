@@ -4,7 +4,6 @@ The Integrated Software for Imagers and Spectrometers ([ISIS](https://isis.astro
 
 I use ISIS in most of my planetary science projects and since the publicly available information and documentation on how to use ISIS is sparse on the internet, I wanted to share some of the scripts and codes I've developed here for anyone to get started with ISIS and planetary mission data sets.
 
-
 ## THIS IS A WORK IN PROGRESS
 I am to upload a new script every couple of days.
 
@@ -13,6 +12,10 @@ Below are descriptions of the scripts in this repository and explanations of how
 ## script_gdal_batch_translate
 
 This is a simple script to convert .cub files in directory to .tif files using gdal_tranlsate.
+
+## script_system_list_parameter
+
+This is a simple script that will loop through a series of spacecraft labels and make a text file of a desired parameter (e.g., phase angle).
 
 ## SCRIPT_NAME
 
