@@ -4,7 +4,7 @@
 #a desired parameter (e.g., phase angle)
 #20210518 - initial version
 
-file_list=$(ls VIR_VIS_1B_1_?????????_1.LBL)
+file_list=$(ls *.LBL)
 todaysdate=$(date +"%Y%m%d%H%M")
 
 #Loop through all the files
@@ -15,6 +15,3 @@ do
 	echo ${parameter1} >> parameter1_${todaysdate}.txt
 
 done
-
-
-
