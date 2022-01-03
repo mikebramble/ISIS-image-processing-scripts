@@ -4,7 +4,7 @@ The Integrated Software for Imagers and Spectrometers ([ISIS](https://isis.astro
 
 I use ISIS in most of my planetary science projects and since the publicly available information and documentation on how to use ISIS is sparse on the internet, I wanted to share some of the scripts and codes I've developed here for anyone to get started with ISIS and planetary mission data sets.
 
-## THIS IS A WORK IN PROGRESS
+## THIS IS AN EVOLVING REPOSITORY
 I aim to upload new scripts every couple of weeks.
 
 Below are descriptions of the scripts in this repository and explanations of how to use them:
