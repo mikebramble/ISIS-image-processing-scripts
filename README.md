@@ -17,10 +17,6 @@ This is a simple script to convert .cub files in directory to .tif files using g
 
 This is a simple script that will loop through a series of spacecraft labels and make a text file of a desired parameter (e.g., phase angle).
 
-## function_pdslblread
-
-A MATLAB function to ingest PDS LBL file data into a structure of varaibles and parameters.
-
 ## SCRIPT_NAME
 
 Description.
